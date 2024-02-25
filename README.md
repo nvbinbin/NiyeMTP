@@ -13,10 +13,15 @@ avorion mod汉化包
 
 天津四武器包：
 采矿炸弹·https://steamcommunity.com/sharedfiles/filedetails/?id=2952902876
+
 霰弹炮台·https://steamcommunity.com/sharedfiles/filedetails/?id=2966958975
+
 垂发导弹·https://steamcommunity.com/sharedfiles/filedetails/?id=2976508701
+
 高斯炮·https://steamcommunity.com/sharedfiles/filedetails/?id=3008190859
+
 电磁炮·https://steamcommunity.com/sharedfiles/filedetails/?id=3025815455
+
 相位光炮·https://steamcommunity.com/sharedfiles/filedetails/?id=3098313409
 
 资本级武器：https://steamcommunity.com/sharedfiles/filedetails/?id=2070272331
