@@ -1,0 +1,386 @@
+
+
+#                                                  使用Ctrl + F 搜索 ： id 、 英文名、 中文名 定位
+#                                                  默认年限 2024
+
+
+# ================================================ [https://steamcommunity.com/sharedfiles/filedetails/?id=3163973028] ========
+# ================================================ [Auto Research (2.4.+)] ====================================================
+# ================================================ [自动研究] ==================================================================
+# ================================================ [2 月 19 日 下午 4:41] ==================================================================
+
+
+msgid "up to"
+msgstr "升级"
+
+msgid "Min & max amount"
+msgstr "最小和最大金额"
+
+msgid "Research selected types together"
+msgstr "批量研究选定的类型"
+
+msgid "After researching items of the same type, different types will be mixed and researched"
+msgstr "在研究同一类型的项目后，混合研究剩下不同类型的项目"
+
+msgid "0/empty = no restrictions"
+msgstr "0/栏位 = 无限制"
+
+msgid "Max turret DPS"
+msgstr "最大炮塔DPS"
+
+msgid "Research Auto/Non-auto turrets separately"
+msgstr "区分研究自动炮塔和非自动炮塔"
+
+msgid "No longer used in 2.0+"
+msgstr "2.0+版本中不再使用"
+
+# ================================================ [https://steamcommunity.com/sharedfiles/filedetails/?id=3052631874] ====================
+# ================================================ [Mercenary Hiring Terminal Subsystem] ==================================================
+# ================================================ [雇佣兵终端系统] ========================================================================
+# ================================================ [2023 年 12 月 6 日 上午 6:43] ========================================================================
+
+msgid "Hired the mercenary '%1%' for %2% credits."
+msgstr "雇佣了雇佣兵 '%1%' ，支付 %2% 信用。"
+
+msgid "No friendly faction nearby!"
+msgstr "附近没有友好派系！"
+
+msgid "You don't have enough money to pay for a mercenary!"
+msgstr "你没有足够的钱来支付雇佣兵的费用！"
+
+msgctxt "ex:Mercenary Hiring Network P-Theta"
+msgid "${name} P-${rarity}"
+msgstr ""
+
+msgid "Mercenary Network Terminal"
+msgstr "雇佣军网络终端"
+
+msgid "Mercenary Strength"
+msgstr "雇佣兵力量"
+
+msgid "Cost"
+msgstr "费用"
+
+msgid "Mercenary Class (If possible)"
+msgstr "雇佣兵等级（如果可用）"
+
+msgid "Spend credits to temporarily hire a mercenary ship from a nearby faction to fight alongside you"
+msgstr "花费信用点从附近派系临时雇佣一艘舰船与你并肩作战"
+
+msgid "The mercenary's damage and volume increase based on rarity and distance to center"
+msgstr "雇佣兵的伤害和体积根据稀有度和到中心的距离增加"
+
+msgid "Mercenary Class"
+msgstr "雇佣兵等级"
+
+# ================================================ [https://steamcommunity.com/sharedfiles/filedetails/?id=2846957669] ==================================================
+# ================================================ [Star Trek Weapons Pack | 24th Century Federation Edition | Beta v1.0.2 | [v2.4.*]] ==================================================
+# ================================================ [星际迷航武器包] ==================================================
+# ================================================ [2023 年 12 月 16 日 上午 2:12] ==================================================
+
+msgid "Phaser Cannon"
+msgstr "相位炮"
+
+msgid "Light Phaser Cannon "
+msgstr "光子相位炮"
+
+msgid "Heavy Phaser Cannon "
+msgstr "重型相位炮"
+
+msgid "Super Heavy Phaser Cannon "
+msgstr "超重型相位炮"
+
+msgid "Ultra Heavy Phaser Cannon "
+msgstr "极限重型相位炮"
+
+msgid "Phaser Beam"
+msgstr "相位光束"
+
+msgid "Photon Torpedo Launcher"
+msgstr "相位鱼雷发射器"
+
+msgid "Advanced Photon Torpedo Launcher"
+msgstr "先进相位鱼雷发射器"
+
+msgid "Quantum Torpedo Launcher"
+msgstr "量子鱼雷发射器"
+
+msgid "Quantum Torpedo Launcher II"
+msgstr "量子鱼雷发射器 II"
+
+msgid "Advanced Quantum Torpedo Launcher"
+msgstr "先进量子鱼雷发射器"
+
+msgid "Transphasic Torpedo Launcher"
+msgstr "跨相鱼雷发射器"
+
+msgid "Advanced Transphasic Torpedo Launcher"
+msgstr "先进的跨相鱼雷发射器"
+
+msgid "Tricobalt Device Launcher"
+msgstr "三钴装置发射器"
+
+# ================================================ [天津四武器包] ==================================================
+# ================================================ [https://steamcommunity.com/sharedfiles/filedetails/?id=2952902876] ==================================================
+
+msgid "Bomb Mining Rocket"
+msgstr "工业采矿炸弹"
+
+msgid "Industrial mining bomb"
+msgstr "工业采矿炸弹"
+
+# ================================================ [https://steamcommunity.com/sharedfiles/filedetails/?id=2966958975] ==================================================
+
+msgid "Shotgun turret"
+msgstr "霰弹枪炮塔"
+
+msgid "choke Shotgun"
+msgstr "霰弹枪炮塔"
+
+msgid "semi-automatic Shotgun"
+msgstr "半自动霰弹枪炮塔"
+
+msgid "fully-automatic Shotgun"
+msgstr "全自动霰弹枪炮塔"
+
+
+# ================================================ [https://steamcommunity.com/sharedfiles/filedetails/?id=2976508701] ==================================================
+
+msgid "vertical launching system"
+msgstr "垂直发射系统"
+
+# ================================================ [https://steamcommunity.com/sharedfiles/filedetails/?id=3008190859] ==================================================
+
+msgid "GaussCannon"
+msgstr "高斯炮"
+
+msgid "Pierce"
+msgstr "混合穿透"
+
+# ================================================ [https://steamcommunity.com/sharedfiles/filedetails/?id=3025815455] ==================================================
+
+msgid "APDS"
+msgstr "脱壳穿甲弹"
+
+msgid "EAPFSDS Cannon"
+msgstr "电磁脱壳穿甲弹炮"
+
+msgid "EAPFSDS"
+msgstr "电磁脱壳穿甲弹炮"
+
+msgid "More damage vs"
+msgstr "更多伤害 vs"
+
+msgid "x2 damage vs /* Double damage to Technical Blocks */"
+msgstr "x2 伤害 vs /* 对技术方块造成双重伤害 */"
+
+msgid "Small surcharges vs /* Cause minor additional damage to Hull and Shields */"
+msgstr "小额附加伤害 vs /* 对船体和护盾造成轻微额外伤害 */"
+
+# ================================================ [https://steamcommunity.com/sharedfiles/filedetails/?id=3098313409] ==================================================
+
+msgid "Phase Photon cannon"
+msgstr "相位光子炮"
+
+# ================================================ [https://steamcommunity.com/sharedfiles/filedetails/?id=2070272331] ==================================================
+# ================================================ [Capital Class weapons] ==================================================
+# ================================================ [资本级武器] ==================================================
+# ================================================ [2022 年 5 月 1 日 下午 10:43] ==================================================
+
+msgid "Capital Plasma Cannon "
+msgstr "资本级等离子大炮"
+
+msgid "CapitalIonCannon "
+msgstr "资本级离子炮"
+
+msgid "Capital Cannon  "
+msgstr "资本级大炮"
+
+msgid "Heavy Railgun "
+msgstr "重型磁轨炮"
+
+msgid "Capital Laser "
+msgstr "资本级激光"
+
+msgid "Heavy Ion Cannon"
+msgstr "资本级离子炮"
+
+msgid "Fires in bursts. Very long rechage time and high energy consumption."
+msgstr "火势一发不可收拾。充电时间很长，能耗很高。"
+
+# ================================================ [https://steamcommunity.com/sharedfiles/filedetails/?id=3024338660] ==================================================
+# ================================================ [MassDriver] ==================================================
+# ================================================ [质量驱动器] ==================================================
+# ================================================ [2023 年 8 月 23 日 上午 7:45] ==================================================
+
+msgid "Mass Driver"
+msgstr "质量驱动器"
+
+msgid "MassDriver"
+msgstr "质量驱动器"
+
+msgid "Mass OverDriver"
+msgstr "质量驱动器"
+
+# ================================================ [https://steamcommunity.com/sharedfiles/filedetails/?id=3044036657] ==================================================
+# ================================================ [JumpBomb] ==================================================
+# ================================================ [跃迁炸弹] ==================================================
+# ================================================ [2023 年 10 月 8 日 下午 12:18] ==================================================
+
+msgid "Jump Bomb Launcher"
+msgstr "跃迁炸弹发射器"
+
+# ================================================ [https://steamcommunity.com/sharedfiles/filedetails/?id=2615158540] ==================================================
+# ================================================ [Braking_Distance_Display] ==================================================
+# ================================================ [制动距离显示] ==================================================
+# ================================================ [2021 年 10 月 5 日 上午 2:37] ==================================================
+
+msgid "Warning! On collsion course with other object, slowing down recommended!"
+msgstr "警告！在与其他物体发生碰撞时，建议减速!"
+
+msgid "Warning! On collsion course with other object, evasive maneuvers required!"
+msgstr "警告！在与其他物体发生碰撞的过程中，需要进行规避动作！"
+
+msgid "Warning! On collsion course with other object, evasive maneuvers required!"
+msgstr "警告！在与其他物体发生碰撞的过程中，需要进行规避动作！"
+
+# ================================================ [https://steamcommunity.com/sharedfiles/filedetails/?id=2926607929] ==================================================
+# ================================================ [FleetShipStatusUI] ==================================================
+# ================================================ [舰船状态UI] ==================================================
+# ================================================ [2 月 22 日 下午 4:07] ==================================================
+
+msgid "Settings"
+msgstr "设置"
+
+msgid "Enable Fleet Status in Hud", 'onEnableHUD'"
+msgstr "在 Hud 中启用车队状态", '启用HUD'"
+
+msgid "Show Ship Locations", 'onEnableShipLocations'"
+msgstr "显示船舶位置", '启用船舶位置'"
+
+msgid ""Show Ship Cargo Percentage", 'onEnableShipCargo'"
+msgstr "“显示船舶货物百分比”，“启用船舶货物”"
+
+msgid "HUD Opacity", "onSliderChanged"
+msgstr "HUD 不透明度", "滑块已更改"
+
+msgid "<< All Ships to HUD", "onAllToHUDButton"
+msgstr "<< 全部运送到 HUD", "所有到 hud 按钮"
+
+msgid "All Ships Out of HUD >>", "onAllToAvailableButton"
+msgstr "所有船舶均脱离 HUD >>", "在所有可用按钮上"
+
+msgid "Move HUD"
+msgstr "移动 HUD"
+
+msgid ""↑", "onUpButton""
+msgstr ""↑", "打开向上按钮""
+
+msgid ""↓", "onDownButton""
+msgstr ""↓", "打开向下按钮""
+
+msgid ""←", "onLeftButton"
+msgstr ""←", "在左侧按钮上""
+
+msgid ""→", "onRightButton""
+msgstr ""→", "在右侧按钮上""
+
+msgid "Show in HUD"
+msgstr "在 HUD 中显示"
+
+msgid "Available Ships"
+msgstr "用船舶"
+
+# ================================================ [https://steamcommunity.com/sharedfiles/filedetails/?id=1769379152] ==================================================
+# ================================================ [ResourceDisplay] ==================================================
+# ================================================ [资源展示] ==================================================
+# ================================================ [2021 年 11 月 4 日 下午 8:09] ==================================================
+
+msgid "Resources Display"
+msgstr "显示资源"
+
+msgid "Resources Display"
+msgstr "显示资源"
+
+msgid "Enable UI movement"
+msgstr "启用界面移动"
+
+msgid "Reset UI position"
+msgstr "重置用户界面位置"
+
+msgid "Show current ship cargo capacity"
+msgstr "显示当前船舶的货舱"
+
+msgid "Show currently used and total inventory slots"
+msgstr "显示库存满度"
+
+msgid "Show inventory capacity for alliance/ship at the same time"
+msgstr "同时为玩家和联盟显示库存满度"
+
+msgid "Show alliance resources when piloting an alliance ship"
+msgstr "联盟舰艇驾驶时显示联盟资源"
+
+msgid "Inventory Slots"
+msgstr "库存槽位"
+
+
+# ================================================ [https://steamcommunity.com/sharedfiles/filedetails/?id=1765619430] ==================================================
+# ================================================ [GalaxyMapQoL] ==================================================
+# ================================================ [银河地图QOL] ==================================================
+# ================================================ [2021 年 8 月 27 日 上午 2:25] ==================================================
+msgid "Maximum amount of icons reached"
+msgstr "已达到最大图标数量限制"
+
+msgid "Edit icon"
+msgstr "编辑图标"
+
+msgid "Hide icons"
+msgstr "隐藏图标"
+
+msgid "Show overlay"
+msgstr "显示叠加"
+
+msgid "Bosses"
+msgstr "Bosses"
+
+msgid "Edit selected color"
+msgstr "编辑所选图标颜色"
+
+msgid "Show Galaxy Map QoL options"
+msgstr ""
+
+msgid "Marks Hazard Zone sectors with a red rectangle in the bottom right corner"
+msgstr "在右下角用红色矩形标记危险区域扇区"
+
+msgid "Makes radar blips always visible"
+msgstr "使雷达信号始终可见"
+
+msgid "Highlight alliance notes with magenta at the bottom right corner"
+msgstr "在右下角用洋红色突出显示联盟注释"
+
+msgid "Hazard Zones"
+msgstr "危险区域"
+
+msgid "Faction Colors"
+msgstr "阵营颜色"
+
+msgid "EXPERIMENTAL: Highlights faction territories with various colors allowing to distinguish them from other nearby factions.\nFactions won't have unique colors!"
+msgstr "实验性：以各种颜色突出显示阵营领土，以使其与附近的其他阵营区分。\n阵营可能会同色颜色！"
+
+msgid "Lock Radar Signatures"
+msgstr "锁定雷达信号"
+
+msgid "Highlight Alliance Notes"
+msgstr ""
+
+msgid "${x} : ${y} (dist: ${num})"
+msgstr "${x} : ${y} (距离: ${num})"
+
+msgid "\n Hazard Zone"
+msgstr "\n 危险区域"
+
+msgid "Incorrect icon"
+msgstr "错误图标"
+
+
+
