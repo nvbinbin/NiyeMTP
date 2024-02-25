@@ -5,13 +5,28 @@ avorion mod汉化包
 
 ===============================
 
+[功能]
+
+制动距离显示：https://steamcommunity.com/sharedfiles/filedetails/?id=2615158540
+
+舰船状态UI：https://steamcommunity.com/sharedfiles/filedetails/?id=2926607929
+
+资源HUD：https://steamcommunity.com/sharedfiles/filedetails/?id=1769379152
+
+银河地图信息功能扩展：https://steamcommunity.com/sharedfiles/filedetails/?id=1765619430
+
 自动研究：https://steamcommunity.com/sharedfiles/filedetails/?id=3163973028
+
+[插件]
 
 雇佣兵终端：https://steamcommunity.com/sharedfiles/filedetails/?id=3052631874
 
+[武器]
+
 星际迷航武器：https://steamcommunity.com/sharedfiles/filedetails/?id=2846957669
 
-天津四武器包：
+[天津四武器包]
+
 采矿炸弹·https://steamcommunity.com/sharedfiles/filedetails/?id=2952902876
 
 霰弹炮台·https://steamcommunity.com/sharedfiles/filedetails/?id=2966958975
@@ -29,11 +44,3 @@ avorion mod汉化包
 质量驱动器：https://steamcommunity.com/sharedfiles/filedetails/?id=3024338660
 
 跃迁炸弹：https://steamcommunity.com/sharedfiles/filedetails/?id=3044036657
-
-制动距离显示：https://steamcommunity.com/sharedfiles/filedetails/?id=2615158540
-
-舰船状态UI：https://steamcommunity.com/sharedfiles/filedetails/?id=2926607929
-
-资源HUD：https://steamcommunity.com/sharedfiles/filedetails/?id=1769379152
-
-银河地图信息功能扩展：https://steamcommunity.com/sharedfiles/filedetails/?id=1765619430
