@@ -4,6 +4,7 @@ avorion mod汉化包
 本模组提供了一些mod的汉化
 
 ===============================
+
 自动研究：https://steamcommunity.com/sharedfiles/filedetails/?id=3163973028
 
 雇佣兵终端：https://steamcommunity.com/sharedfiles/filedetails/?id=3052631874
