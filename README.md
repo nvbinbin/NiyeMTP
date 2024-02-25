@@ -23,9 +23,7 @@ avorion mod汉化包
 
 [武器]
 
-星际迷航武器：https://steamcommunity.com/sharedfiles/filedetails/?id=2846957669
-
-[天津四武器包]
+[天津四武器：
 
 采矿炸弹·https://steamcommunity.com/sharedfiles/filedetails/?id=2952902876
 
@@ -39,8 +37,12 @@ avorion mod汉化包
 
 相位光炮·https://steamcommunity.com/sharedfiles/filedetails/?id=3098313409
 
+]
+
 资本级武器：https://steamcommunity.com/sharedfiles/filedetails/?id=2070272331
 
 质量驱动器：https://steamcommunity.com/sharedfiles/filedetails/?id=3024338660
 
 跃迁炸弹：https://steamcommunity.com/sharedfiles/filedetails/?id=3044036657
+
+星际迷航武器：https://steamcommunity.com/sharedfiles/filedetails/?id=2846957669
